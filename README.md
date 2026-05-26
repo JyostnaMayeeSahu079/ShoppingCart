@@ -62,7 +62,6 @@ npm run dev
 <img width="1384" height="803" alt="image" src="https://github.com/user-attachments/assets/1dda45f9-f32a-40bb-9b61-665febfbf3c8" />
 
 
-Add your project screenshots here.
 
 🎯 Future Enhancements
 1.User Authentication
