@@ -40,8 +40,6 @@ Shopping/
 │── package.json
 │── vite.config.js
 
-
-
 ⚙️ Installation
 
 Clone the repository:
@@ -52,16 +50,16 @@ Go to project folder:
 
 cd Shopping
 
--Install dependencies:
+Install dependencies:
 
 npm install
 
 Run the project:
 
 npm run dev
-<img width="1384" height="803" alt="image" src="https://github.com/user-attachments/assets/1dda45f9-f32a-40bb-9b61-665febfbf3c8" />
+📸 Screenshots
 
-
+<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/6444d46c-96e0-4a9d-9e54-13b7b5d99073" />
 
 🎯 Future Enhancements
 1.User Authentication
@@ -69,3 +67,9 @@ npm run dev
 3.Product Search & Filter
 4.Wishlist Feature
 5.Backend Integration
+
+
+👨‍💻 Author
+Jyostnamayee Sahu
+
+
