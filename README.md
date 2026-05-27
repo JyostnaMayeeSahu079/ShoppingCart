@@ -57,7 +57,8 @@ npm install
 Run the project:
 
 npm run dev
-<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/fb2647fa-26fa-4986-8593-aa028d294536" />
+<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/32297bf6-fad4-44a8-a8af-38c594f278c3" />
+
 
 
 
