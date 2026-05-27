@@ -57,8 +57,8 @@ npm install
 Run the project:
 
 npm run dev
-📸 Screenshots
-![image alt](https://github.com/JyostnaMayeeSahu079/ShoppingCart/blob/0c68286274c6b7dbb2646d4fd86ce8be4e0eb147/Screenshot%202026-05-26%20125552.png)
+<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/fb2647fa-26fa-4986-8593-aa028d294536" />
+
 
 
 🎯 Future Enhancements
