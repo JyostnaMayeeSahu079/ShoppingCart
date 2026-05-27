@@ -5,6 +5,10 @@ This project allows users to browse products, add items to cart,  and view total
 
 ---
 
+
+<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/19ddaa43-6a69-41ff-83eb-051dc0f69a45" />
+
+
 ## 🚀 Features
 
 - 🛍️ Product Listing
@@ -57,8 +61,7 @@ npm install
 Run the project:
 
 npm run dev
-<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/32297bf6-fad4-44a8-a8af-38c594f278c3" />
-
+ 
 
 
 
