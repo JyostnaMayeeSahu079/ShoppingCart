@@ -59,7 +59,7 @@ Run the project:
 npm run dev
 📸 Screenshots
 
-<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/6444d46c-96e0-4a9d-9e54-13b7b5d99073" />
+![image alt](https://github.com/JyostnaMayeeSahu079/ShoppingCart/blob/master/Screenshot%202026-05-26%20125552.png?raw=true)
 
 🎯 Future Enhancements
 1.User Authentication
