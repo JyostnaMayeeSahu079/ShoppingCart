@@ -58,8 +58,8 @@ Run the project:
 
 npm run dev
 📸 Screenshots
+![image alt](https://github.com/JyostnaMayeeSahu079/ShoppingCart/blob/0c68286274c6b7dbb2646d4fd86ce8be4e0eb147/Screenshot%202026-05-26%20125552.png)
 
-![image alt](https://github.com/JyostnaMayeeSahu079/ShoppingCart/blob/master/Screenshot%202026-05-26%20125552.png?raw=true)
 
 🎯 Future Enhancements
 1.User Authentication
