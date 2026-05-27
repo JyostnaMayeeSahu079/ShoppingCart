@@ -5,8 +5,8 @@ This project allows users to browse products, add items to cart,  and view total
 
 ---
 
-
-<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/19ddaa43-6a69-41ff-83eb-051dc0f69a45" />
+📸 Screenshots
+<img width="1384" height="803" alt="Screenshot 2026-05-26 125552" src="https://github.com/user-attachments/assets/bbecc635-1c84-408c-ad4b-a8a5c83de9be" />
 
 
 ## 🚀 Features
@@ -61,19 +61,13 @@ npm install
 Run the project:
 
 npm run dev
- 
-
-
 
 🎯 Future Enhancements
-1.User Authentication
-2.Payment Gateway Integration
-3.Product Search & Filter
-4.Wishlist Feature
-5.Backend Integration
-
-
+User Authentication
+Payment Gateway Integration
+Product Search & Filter
+Wishlist Feature
+Backend Integration
 👨‍💻 Author
+
 Jyostnamayee Sahu
-
-
